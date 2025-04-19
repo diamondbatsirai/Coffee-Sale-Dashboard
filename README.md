@@ -30,8 +30,39 @@ I calculated Sales column by the formula =L2*E2 and drag down to fill the whole 
 # Insertion of new Columns
 
 I inserted Coffee Type Name so that the audience understand rather than the abbreviations.
+
 I inserted Roast Type Name to show the full names of the abbreviations for better understanding.
+
 I inserted Loyalty cards, which is needed to find out how many customers have it.
+
+# Formatting
+
+•	I formatted Sales and Unit Price into US$ for better understanding
+
+•	I formatted date type to for egg “5 May 2023” because it can be understood by people in different regions.
+
+# Pivot Tables
+
+•	I created a pivot table called Total sales it consists of Coffee type name, order Date and slicers which were Loyalty cards, size and Roasted type Name.
+
+•	I then created a pivot line chart which consist of the above.
+
+•	I then inserted a Time Line which shows me sales made on a selected period of time.
+
+# Tables
+
+•	I created table for Top 5 Customers.
+
+•	Created a bar chart showing Sales by country from highest sales to lowest.
+
+
+# DASHBOARD
+
+I joined all the charts together that is total sales by country, Top 5 customers, Total Sales Over time and slicers.
+
+I made the interactions connection so that my dashboard can be interactive.
+
+
 
 
 
