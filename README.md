@@ -23,4 +23,15 @@ I gathered product information using INDEX function(I populated all the cells at
 
 =INDEX(products!$A$1:$G$49,MATCH(orders!$D2,products!$A$1:$A$49,0),MATCH(orders!I$1,products!$A$1:$G$1,0))
 
+## Sales Column
+
+I calculated Sales column by the formula =L2*E2 and drag down to fill the whole column
+
+# Insertion of new Columns
+
+I inserted Coffee Type Name so that the audience understand rather than the abbreviations.
+I inserted Roast Type Name to show the full names of the abbreviations for better understanding.
+I inserted Loyalty cards, which is needed to find out how many customers have it.
+
+
 
